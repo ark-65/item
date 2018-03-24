@@ -36,7 +36,7 @@ public class Rectangle {
         System.out.println("长，宽初始化");
     }
 
-    private void area() {
+    public void area() {
         System.out.println("此矩形的面积是："+ (lon * wide));
     }
 
