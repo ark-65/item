@@ -1,7 +1,4 @@
-package aggregate;
-
-import java.util.Iterator;
-import java.util.TreeSet;
+package aggregateSet;
 
 /**
  * Create with by IntelliJ IDEA

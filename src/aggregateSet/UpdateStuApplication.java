@@ -1,4 +1,4 @@
-package aggregate;
+package aggregateSet;
 
 import java.util.TreeSet;
 import java.util.Iterator;
